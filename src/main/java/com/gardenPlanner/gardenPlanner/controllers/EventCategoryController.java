@@ -1,4 +1,4 @@
 package com.gardenPlanner.gardenPlanner.controllers;
 
-public class EventCatergoryController {
+public class EventCategoryController {
 }
